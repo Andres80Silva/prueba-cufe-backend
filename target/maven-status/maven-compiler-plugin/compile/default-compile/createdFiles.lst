@@ -1,0 +1,5 @@
+com\clarisa\controller\CufeController.class
+com\clarisa\model\CufeRequest.class
+com\clarisa\model\CufeResponse.class
+com\clarisa\service\CufeService.class
+com\clarisa\PruebaCufeBackendApplication.class
